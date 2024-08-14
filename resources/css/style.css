@@ -4,13 +4,32 @@ html {
     background-color: #000000;
 }
 
-header{
+h1 {
     font-size: 50px;
     font-weight: normal;
     color: #ffffff;
 }
 
-.download-link {
+a {
     font-size: 16px;
     color: #7fffd4;
+}
+video {
+    padding-top:40px;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color:#ffffff;
+}
+
+p {
+    color: grey;
+    font-size: 21px;
+}
+
+footer {
+    color: grey;
+    text-align: right;
 }
